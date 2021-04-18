@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-arktrading-staging-32615-authRole",
+      "UnauthRoleArn": "arn:aws:iam::381895836676:role/amplify-arktrading-staging-32615-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::381895836676:role/amplify-arktrading-staging-32615-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-arktrading-staging-32615-deployment",
+      "UnauthRoleName": "amplify-arktrading-staging-32615-unauthRole",
+      "StackName": "amplify-arktrading-staging-32615",
+      "StackId": "arn:aws:cloudformation:us-east-1:381895836676:stack/amplify-arktrading-staging-32615/e2c32780-7586-11eb-80bd-12f057d255e7",
+      "AmplifyAppId": "d2e3eroc1szrms"
+    }
+  }
+}

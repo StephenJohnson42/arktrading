@@ -1,0 +1,2 @@
+FUND,Direction,Ticker,CUSIP,Name,Shares,percETF,entryDate,exitDate,entryPrice,exitPrice,percGain
+test,test,test,test,test,300,123.45,test,test,123.45,123.45,123.45

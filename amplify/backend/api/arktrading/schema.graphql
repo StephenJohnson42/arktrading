@@ -1,0 +1,16 @@
+type Trades @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  FUND: String
+  Direction: String
+  Ticker: String
+  CUSIP: String
+  Name: String
+  Shares: Int
+  percETF: Float
+  entryDate: String
+  exitDate: String
+  entryPrice: Float
+  exitPrice: Float
+  percGain: Float
+}
+ 
